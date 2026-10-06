@@ -1,0 +1,3480 @@
+{
+  "version": "2026-27",
+  "period": "2026-03-19 to 2027-04-06",
+  "tradition": "Karnataka/Mysuru Chandra-mana, Amavasyanta",
+  "primarySource": "Ontikoppal Panchanga Mandira, Mysore (OCR-derived public dataset)",
+  "crossReference": "Astrolytics 2026-27 Mysuru Panchanga",
+  "coverage": "354/384",
+  "records": [
+    {
+      "date": "2026-03-19",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Ugadi",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-20",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Navaratri Begin",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-21",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-22",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-23",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-24",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-25",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Santana Saptami",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-26",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Ashoka Ashtami\\, Kuruba Jayanti",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-27",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Sri Rama Navami",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-28",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Mahavir Jayanti",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-29",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-30",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Bengaluru Karaga",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-03-31",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Mahavir Jayanti",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-01",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Bengaluru Karaga",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-02",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-03",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-04",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-05",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-06",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-07",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-08",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-09",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-10",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-11",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-12",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-13",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-14",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-15",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-16",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-17",
+      "samvatsara": "Parabhava",
+      "masa": "Chaitra",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-18",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-19",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-20",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-21",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-22",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-23",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-24",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-25",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-26",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-27",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-28",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-29",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-04-30",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-01",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-02",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-03",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-04",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-05",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-06",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-07",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-08",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-09",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-10",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-11",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-12",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-13",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-14",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-15",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-16",
+      "samvatsara": "Parabhava",
+      "masa": "Vaishakha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-17",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Pratipada (1)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-18",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Dvitiya (2)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-19",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Tritiya (3)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-20",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Chaturthi (4)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-21",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Panchami (5)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-22",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Shashti (6)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-23",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Saptami (7)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-24",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Ashtami (8)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-25",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Navami (9)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-26",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Dashami (10)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-27",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Ekadashi (11)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-28",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Dvadashi (12)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-29",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Trayodashi (13)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-30",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Chaturdashi (14)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-05-31",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Shukla Paksha\\, Purnima (15)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-01",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Pratipada (1)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-02",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Dvitiya (2)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-03",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Tritiya (3)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-04",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Chaturthi (4)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-05",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Panchami (5)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-06",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Shashti (6)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-07",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Saptami (7)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-08",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Ashtami (8)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-09",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Navami (9)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-10",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Dashami (10)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-11",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Ekadashi (11)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-12",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Dvadashi (12)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-13",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Trayodashi (13)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-14",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Chaturdashi (14)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-15",
+      "samvatsara": "Parabhava",
+      "masa": "",
+      "paksha": "Krishna Paksha\\, Amavasya (15)",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-16",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-17",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-18",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-19",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-20",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-21",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-22",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-23",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-24",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-25",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-26",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-27",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-28",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-29",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-06-30",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-01",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-02",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-03",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-04",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-05",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-06",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-07",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-08",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-09",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-10",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-11",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-12",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-13",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-14",
+      "samvatsara": "Parabhava",
+      "masa": "Nija Jyeshtha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-15",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-16",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-17",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-18",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-19",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-20",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-21",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-22",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-23",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-24",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-25",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-26",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-27",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-28",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-29",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "Shukla",
+      "tithi": "Purnima",
+      "nakshatra": "Uttara Ashadha",
+      "festival": "Guru Purnima",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2026-07-30",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-07-31",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-01",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-02",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-03",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-04",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-05",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-06",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-07",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-08",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-09",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-10",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-11",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-12",
+      "samvatsara": "Parabhava",
+      "masa": "Ashadha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-13",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-14",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-15",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-16",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-17",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-18",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-19",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-20",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-21",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-22",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-23",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-24",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-25",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-26",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-27",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-28",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-29",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-30",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-08-31",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-01",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-02",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-03",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-04",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-05",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-06",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-07",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-08",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-09",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-10",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-11",
+      "samvatsara": "Parabhava",
+      "masa": "Shravana",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-12",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-13",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-14",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-15",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-16",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-17",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-18",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-19",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-20",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-21",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-22",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-23",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-24",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-25",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-26",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-27",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-28",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-29",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-09-30",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-01",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-02",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-03",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-04",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-05",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-06",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-07",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-08",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-09",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-10",
+      "samvatsara": "Parabhava",
+      "masa": "Bhadrapada",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-11",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-12",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-13",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-14",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-15",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-16",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-17",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-18",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-19",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-20",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-21",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-22",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-23",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-24",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-25",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-26",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-27",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-28",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-29",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-30",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-10-31",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-01",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-02",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-03",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-04",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-05",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-06",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-07",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-08",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-09",
+      "samvatsara": "Parabhava",
+      "masa": "Ashvayuja",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-10",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-11",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-12",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-13",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-14",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-15",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-16",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-17",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-18",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-19",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-20",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-21",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-22",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Deepawali",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-23",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "Shukla",
+      "tithi": "Chaturdashi",
+      "nakshatra": "Rohini",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2026-11-24",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "Krishna",
+      "tithi": "Pratipada",
+      "nakshatra": "Ardra",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2026-11-25",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-26",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-27",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-28",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-29",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-11-30",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-01",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-02",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-03",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-04",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-05",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-06",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-07",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-08",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Deepawali\\, Karthika Deepa",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-09",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-10",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-11",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-12",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-13",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-14",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-15",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-16",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-17",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-18",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-19",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-20",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-21",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-22",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-23",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-24",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-25",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-26",
+      "samvatsara": "Parabhava",
+      "masa": "Karthika",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-27",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-28",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-29",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-30",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2026-12-31",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-01",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-02",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-03",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-04",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-05",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-06",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-07",
+      "samvatsara": "Parabhava",
+      "masa": "Margashira",
+      "paksha": "Krishna",
+      "tithi": "Amavasya",
+      "nakshatra": "Purva Ashadha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-01-08",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-09",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-10",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-11",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-12",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-13",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-14",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-15",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-16",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-17",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-18",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-19",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-20",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-21",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-22",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Sankranti",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-23",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-24",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-25",
+      "samvatsara": "Parabhava",
+      "masa": "Unknown",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-26",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-27",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-28",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-29",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-30",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-01-31",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-01",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-02",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-03",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-04",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "Krishna",
+      "tithi": "Trayodashi",
+      "nakshatra": "Purva Ashadha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-02-05",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "Krishna",
+      "tithi": "Chaturdashi",
+      "nakshatra": "Uttara Ashadha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-02-06",
+      "samvatsara": "Parabhava",
+      "masa": "Pushya",
+      "paksha": "Krishna",
+      "tithi": "Amavasya",
+      "nakshatra": "Shravana",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-02-07",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-08",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-09",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-10",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-11",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-12",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-13",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-14",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-15",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-16",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-17",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-18",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-19",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-20",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-21",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-22",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Ratha Saptami",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-23",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-24",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-25",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-26",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-27",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-02-28",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-01",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-02",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-03",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-04",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-05",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Deepawali",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-06",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-07",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "Krishna",
+      "tithi": "Chaturdashi",
+      "nakshatra": "Shatabhisha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-03-08",
+      "samvatsara": "Parabhava",
+      "masa": "Magha",
+      "paksha": "Krishna",
+      "tithi": "Amavasya",
+      "nakshatra": "Shatabhisha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-03-09",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-10",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-11",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-12",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-13",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-14",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Holi",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-15",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-16",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Holi",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-17",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-18",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-19",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-20",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "Holi",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-21",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-22",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "Shukla",
+      "tithi": "Purnima",
+      "nakshatra": "Uttara Phalguni",
+      "festival": "Holi",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-03-23",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-24",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-25",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-26",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-27",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-28",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-29",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-30",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-03-31",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-04-01",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-04-02",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "",
+      "tithi": "",
+      "festival": "",
+      "source": "Ontikoppal-derived annual reference"
+    },
+    {
+      "date": "2027-04-03",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "Krishna",
+      "tithi": "Dvadashi",
+      "nakshatra": "Dhanishtha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-04-04",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "Krishna",
+      "tithi": "Trayodashi",
+      "nakshatra": "Shatabhisha",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-04-05",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "Krishna",
+      "tithi": "Chaturdashi",
+      "nakshatra": "Purva Bhadrapada",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    },
+    {
+      "date": "2027-04-06",
+      "samvatsara": "Parabhava",
+      "masa": "Phalguna",
+      "paksha": "Krishna",
+      "tithi": "Amavasya",
+      "nakshatra": "Uttara Bhadrapada",
+      "festival": "",
+      "source": "Mysuru cross-reference"
+    }
+  ]
+}
